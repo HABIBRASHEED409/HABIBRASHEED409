@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi there, I'm Habib O. Rasheed
 
-<!--
-**HABIBRASHEED409/HABIBRASHEED409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Master's student in **Artificial Intelligence for Engineering** at the University of Hull, where I apply AI to optimize engineering processes — with a focus on **sustainability**.
 
-Here are some ideas to get you started:
+🔬 I am also a **researcher**, passionate about leveraging data-driven solutions to solve real-world engineering and environmental challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I hold a **first-class degree** in **Environmental and Agricultural Engineering**, graduating with a perfect **4.0/4.0 GPA** in my final year.
+
+💻 I have over **5 years of programming experience**, and I'm proficient in:
+- **Python**, **C++**, **Dart**
+- Frameworks/Tools: **TensorFlow**, scikit-learn, Keras, Flutter
+
+📚 Currently exploring:
+- Machine learning for environmental modeling
+- AI applications in sustainability
+- Edge AI and real-time inference systems
+
+🚀 Let's connect and build something impactful!
